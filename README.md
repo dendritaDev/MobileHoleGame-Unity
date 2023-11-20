@@ -1,6 +1,6 @@
 # MobileHoleGame
 ## Description
-This project is a mobile clone game from Hypercasual Hole Games. Developed in Unity.
+This project is a (prototype, for now, of) mobile clone game from Hypercasual Hole Games. Developed in Unity.
 
 ## Features
  -  Joystick like controller.
